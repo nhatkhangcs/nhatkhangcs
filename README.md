@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Nhat Khang (_Chris_). Currently I'm studying Computer Science at **Ho Chi Minh University of Technology**.
+My name is Nhat Khang (_Chris_). Currently I'm studying Computer Science at **Ho Chi Minh University of Technology**.  
 📢 [Followers](https://github.com/nhatkhangcs?tab=followers)
 
 ### 1. Introduction 😊
@@ -12,6 +12,6 @@ I’m currently doing research related to **Deep Learning**. But I'm also a fan 
 
 ### 4. Experiences 🌅
 
-### 5. Fun facts 🌅
+### 5. Fun facts 👌
 
 ### 6. Contacts 📧
