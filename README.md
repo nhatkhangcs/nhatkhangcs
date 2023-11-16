@@ -1,4 +1,4 @@
-# Hi! 👋
+![image](https://github.com/nhatkhangcs/nhatkhangcs/assets/97901202/96ad33e8-dae2-4703-a797-1c650e9773cf)# Hi! 👋
 
 My name is Nhat Khang (_Chris_). Currently I'm studying Computer Science at **Ho Chi Minh University of Technology**.  
 📢  Followers: [Followers](https://github.com/nhatkhangcs?tab=followers) <br>
@@ -32,4 +32,4 @@ I’m currently doing researches related to **Deep Learning** and **Data Science
 ### 5. Contacts 📧
 - Contact me through emails: khang.vo872003@hcmut.edu.vn or nhatkhangdtp@gmail.com
 - Facebook: https://www.facebook.com/Christeriousity/
-- Linkedln: https://www.linkedin.com/in/khangchristine/
+- ![image](https://github.com/nhatkhangcs/nhatkhangcs/assets/97901202/3963898c-aba7-4d12-aacf-1aa30d9b119b) Linkedln: https://www.linkedin.com/in/khangchristine/
