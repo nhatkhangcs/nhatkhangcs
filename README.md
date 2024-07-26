@@ -1,6 +1,6 @@
 # Hi! 📌
 
-My name is Nhat Khang (_Chris_). Currently, I'm studying Computer Science at **Ho Chi Minh University of Technology**.  
+My name is Nhat Khang (_Christ_). Currently, I'm studying Computer Science at **Ho Chi Minh University of Technology**.  
 📢  Followers: [Followers](https://github.com/nhatkhangcs?tab=followers)  
 📢  About **HCMUT**: [HCMUT](https://oisp.hcmut.edu.vn/en/)
 
