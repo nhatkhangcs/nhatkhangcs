@@ -1,43 +1,22 @@
-# 🌟 Welcome to My Professional Profile 🌟
+# 🌟 Welcome to my home 🌟
 
-Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh University of Technology (HCMUT)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhangcs" /> </p>
+
+Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
 
 🔗 **Follow me on GitHub**: [nhatkhangcs](https://github.com/nhatkhangcs?tab=followers)  
 🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
 🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: 2px solid white;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/HCMUT_official_logo.png"
-          alt="HCMUT Logo" 
-          width=150px
-          />
-      </td>
-      <td align="center" style="border: 2px solid white;">
-        <img src="https://ai-nexus.mbzuai.ac.ae/wp-content/themes/ai-nexus/assets/images/nexus/mbzuai-logo.svg" 
-          alt="MBZUAI Logo" 
-          width=400px
-          />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: 2px solid white;"><strong>Ho Chi Minh City University of Technology (HCMUT-VNU)</strong></td>
-      <td align="center" style="border: 2px solid white;"><strong>Mohamed bin Zayed University of AI (MBZUAI)</strong></td>
-    </tr>
-  </table>
-</div>
+---
+
+## 🎯 About me
+
+I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
 
 ---
 
-## 🎯 About Me
-
-I’m a driven researcher and developer immersed in **Deep Learning** and **Data Science**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
-
----
-
-## 🧩 My Hobbies & Interests
+## 🧩 Hobbies & Interests
 
 - ♟️ **Chess**: Outsmarting opponents with strategic brilliance.  
 - 🍴 **Cooking**: Crafting dishes that delight the senses.  
@@ -48,42 +27,33 @@ I’m a driven researcher and developer immersed in **Deep Learning** and **Data
 
 ---
 
-## 🔬 Research Fields
+## 🔬 Research fields
 
 My academic and research pursuits focus on:  
-- 🗣️ **Natural Language Processing (NLP)**: Advancing human-AI language interactions.  
-- 📊 **Data Science**: Turning data into actionable insights.  
-- ⛏️ **Data Mining**: Uncovering patterns in large-scale datasets.  
+- **Natural Language Processing (NLP)**: Advancing human-AI language interactions.
+- **Multimodal Learning**: Learn about how various datatypes interact with each other in AI systems. 
+- **Data Science**: Turning data into actionable insights. 
 
 ---
 
 ## 🛠️ Skills & Experiences
 
-My skill set is built through rigorous academic training and hands-on projects:  
-- **Programming Languages**:  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 
-  ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- **AI Algorithms**: Developing algorithms for general AI applications.  
-- **Data Mining**: Applying advanced techniques to extract insights.  
-- **NLP Expertise**: Building and fine-tuning NLP models for real-world use cases.  
-
----
-
-## 📂 GitHub Repositories & Activity
-
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatkhangcs" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📬 Let’s Connect!
+## 📬 Let’s connect!
 
 I’m eager to collaborate, share ideas, or discuss research and opportunities. Reach out to me via:  
 - 📧 **Email**: [nhatkhangdtp@gmail.com](mailto:nhatkhangdtp@gmail.com)  
