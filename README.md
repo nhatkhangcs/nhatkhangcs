@@ -23,7 +23,7 @@ Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate
       </td>
     </tr>
     <tr>
-      <td align="center" style="border: 2px solid white;"><strong>Ho Chi Minh University of Technology (HCMUT)</strong></td>
+      <td align="center" style="border: 2px solid white;"><strong>Ho Chi Minh City University of Technology (HCMUT-VNU)</strong></td>
       <td align="center" style="border: 2px solid white;"><strong>Mohamed bin Zayed University of AI (MBZUAI)</strong></td>
     </tr>
   </table>
