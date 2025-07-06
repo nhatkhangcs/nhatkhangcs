@@ -76,16 +76,10 @@ My skill set is built through rigorous academic training and hands-on projects:
 
 ## 📂 GitHub Repositories & Activity
 
-Explore my coding journey through a structured grid showcasing my GitHub activity and contributions:
-
-| **GitHub Stats** 📊 | **Top Languages** 🌐 |
-|---------------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhatkhangcs&show_icons=true&theme=radical) <br> Overview of my contributions, repositories, and activity. Actively pushing code to maintain high-quality projects. | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatkhangcs&layout=compact&theme=radical) <br> A breakdown of my most-used programming languages, showcasing my versatility. |
-
-| **Contribution Activity** 📈 |
-|-----------------------------|
-| ![Contribution Graph](https://ghchart.rshah.org/nhatkhangcs) <br> Visualizing my commit frequency and consistency across repositories, with a focus on AI, Data Science, and web development projects. |
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
