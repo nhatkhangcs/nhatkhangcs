@@ -8,6 +8,8 @@ Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate
 🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
 🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
 
+<img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ## 🎯 About me
