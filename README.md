@@ -87,15 +87,15 @@ At MBZUAI, I am advised by **Professor Timothy Baldwin** and **Dr. Yova Kementch
 
 | Project | Type | Description |
 |---|---:|---|
-| **[HuTieuBERT](#)** | Research | Morpheme-aware Transformer work for Vietnamese NLP, accepted to **ACL 2026 Main Conference**. |
-| **[V7](#)** | Product | Vietnamese AI input method designed for faster and more flexible typing. |
-| **[Namizer](#)** | NLP Tool | Vietnamese tokenizer that decomposes words into five linguistic components. |
-| **[PhoCLIP](#)** | Multimodal | CLIP-style Vietnamese vision-language model for text-image understanding. |
-| **[TI-JEPA](#)** | Research | Text-image joint-embedding predictive architecture for multimodal fusion. |
-| **[LumbarCLIP](#)** | Healthcare AI | Multimodal CLIP-based framework for low back pain diagnosis. |
-| **[VitalFit Persona](#)** | Agentic AI | AI-powered healthcare application with agentic workflows. |
-| **[HCMUT Chatbot](#)** | RAG System | Retrieval-augmented chatbot for university admission support. |
-| **[Synthetic Generator](#)** | Data System | Synthetic dataset generation system for ML workflows. |
+| **HuTieuBERT** | Research | Morpheme-aware Transformer work for Vietnamese NLP, accepted to **ACL 2026 Main Conference**. |
+| **V7** | Product | Vietnamese AI input method designed for faster and more flexible typing. |
+| **Namizer** | NLP Tool | Vietnamese tokenizer that decomposes words into five linguistic components. |
+| **PhoCLIP** | Multimodal | CLIP-style Vietnamese vision-language model for text-image understanding. |
+| **TI-JEPA** | Research | Text-image joint-embedding predictive architecture for multimodal fusion. |
+| **LumbarCLIP** | Healthcare AI | Multimodal CLIP-based framework for low back pain diagnosis. |
+| **VitalFit Persona** | Agentic AI | AI-powered healthcare application with agentic workflows. |
+| **HCMUT Chatbot** | RAG System | Retrieval-augmented chatbot for university admission support. |
+| **Synthetic Generator** | Data System | Synthetic dataset generation system for ML workflows. |
 
 ---
 
