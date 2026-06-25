@@ -1,74 +1,160 @@
-# 🌟 Welcome to my home 🌟
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhangcs" /> </p>
-
-Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
-
-🔗 **Follow me on GitHub**: [nhatkhangcs](https://github.com/nhatkhangcs?tab=followers)  
-🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
-🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
-
-<img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" alt="Snake animation" />
-
----
-
-## 🎯 About me
-
-I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
-
----
-
-## 🧩 Hobbies & Interests
-
-- ♟️ **Chess**: Outsmarting opponents with strategic brilliance.  
-- 🍴 **Cooking**: Crafting dishes that delight the senses.  
-- 📖 **Research Papers**: Devouring the latest AI breakthroughs.  
-- 💡 **Ideation**: Dreaming up game-changing solutions for teams.  
-- 🎧 **Music**: Coding to EDM & trance, chilling with Japanese & Chinese tunes.  
-- 🧩 **Algorithms**: Solving complex AI and Data Mining puzzles.  
-
----
-
-## 🔬 Research fields
-
-My academic and research pursuits focus on:  
-- **Natural Language Processing (NLP)**: Advancing human-AI language interactions.
-- **Multimodal Learning**: Learn about how various datatypes interact with each other in AI systems. 
-- **Data Science**: Turning data into actionable insights. 
-
----
-
-## 🛠️ Skills & Experiences
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatkhangcs&theme=dracula&hide_border=false" alt="GitHub Streak" />
+
+# Khang Vo
+
+**AI Research Engineer · NLP PhD Student · Multimodal Systems Builder**
+
+Building practical AI systems across **language**, **vision**, **retrieval**, and **agentic workflows**.
+
+<p>
+  <a href="https://nhatkhangcs.github.io/">
+    <img src="https://img.shields.io/badge/Website-nhatkhangcs.github.io-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/nhatkhangcs">
+    <img src="https://img.shields.io/badge/GitHub-nhatkhangcs-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/khangchris/">
+    <img src="https://img.shields.io/badge/LinkedIn-khangchris-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nhatkhangdtp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 📬 Let’s connect!
+## Profile
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/khangchris/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Christeriousity/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="nhatkhangdtp@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div> 
+I am **Vo Hoang Nhat Khang (Chris)**, a PhD student in **Natural Language Processing** at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**.
+
+I work on **vision-language models**, **multimodal learning**, **uncertainty estimation**, and **Vietnamese NLP**. My style is simple: take research ideas seriously, implement them cleanly, and turn prototypes into systems people can actually use.
+
+Before MBZUAI, I completed my B.Sc. in **Computer Science** at **Ho Chi Minh City University of Technology — Vietnam National University (HCMUT-VNU)** in an accelerated **3.5 years**. I worked under **Assoc. Prof. Dr. Tho T. Quan**, building foundations in machine learning, deep learning, multimodal analysis, and applied software engineering.
+
+At MBZUAI, I am advised by **Professor Timothy Baldwin** and **Dr. Yova Kementchedjhieva**, focusing on uncertainty in multimodal learning and VLMs.
 
 ---
 
-> As I'm on my PhD journey at MBZUAI, I’m excited to contribute to groundbreaking research and innovative projects. Connect with me for collaborations, discussions, or a chat about the limitless possibilities of technology!
+## Builder Stack
+
+<table>
+  <tr>
+    <td><b>Research</b></td>
+    <td>Vision-Language Models · Multimodal Learning · Uncertainty Estimation · Vietnamese NLP</td>
+  </tr>
+  <tr>
+    <td><b>Models</b></td>
+    <td>LLMs · VLMs · CLIP-style models · Transformers · Retrieval-Augmented Generation</td>
+  </tr>
+  <tr>
+    <td><b>Engineering</b></td>
+    <td>Python · C++ · Java · Backend APIs · Data pipelines · Research prototyping</td>
+  </tr>
+  <tr>
+    <td><b>Systems</b></td>
+    <td>RAG applications · Agentic AI · Healthcare AI · Vietnamese language tools</td>
+  </tr>
+</table>
+
+---
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=6295CB" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/HuggingFace-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Transformers-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLMs-111827?style=flat-square&logo=semanticweb&logoColor=FF6F61" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Agentic_AI-111827?style=flat-square&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+---
+
+## Selected Builds
+
+| Project | Type | Description |
+|---|---:|---|
+| **[HuTieuBERT](#)** | Research | Morpheme-aware Transformer work for Vietnamese NLP, accepted to **ACL 2026 Main Conference**. |
+| **[V7](#)** | Product | Vietnamese AI input method designed for faster and more flexible typing. |
+| **[Namizer](#)** | NLP Tool | Vietnamese tokenizer that decomposes words into five linguistic components. |
+| **[PhoCLIP](#)** | Multimodal | CLIP-style Vietnamese vision-language model for text-image understanding. |
+| **[TI-JEPA](#)** | Research | Text-image joint-embedding predictive architecture for multimodal fusion. |
+| **[LumbarCLIP](#)** | Healthcare AI | Multimodal CLIP-based framework for low back pain diagnosis. |
+| **[VitalFit Persona](#)** | Agentic AI | AI-powered healthcare application with agentic workflows. |
+| **[HCMUT Chatbot](#)** | RAG System | Retrieval-augmented chatbot for university admission support. |
+| **[Synthetic Generator](#)** | Data System | Synthetic dataset generation system for ML workflows. |
+
+---
+
+## Current Direction
+
+```txt
+VLMs                build models that connect language and vision robustly
+Uncertainty         estimate when multimodal systems should trust themselves less
+Vietnamese NLP      design better representations for morphology-rich Vietnamese text
+Applied AI          ship useful systems: RAG, agents, healthcare, productivity tools
+```
+
+---
+
+## Notes
+
+- Started PhD in **NLP at MBZUAI** in **August 2025**.
+- Completed undergraduate CS degree at **HCMUT-VNU** in **3.5 years**.
+- Built systems across Vietnamese NLP, multimodal learning, healthcare AI, and RAG.
+- Interested in research that survives contact with real users, messy data, and production constraints.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatkhangcs&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nhatkhangcs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/nhatkhangcs" alt="GitHub contribution graph" />
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="https://nhatkhangcs.github.io/">
+    <img src="https://img.shields.io/badge/Website-nhatkhangcs.github.io-111827?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-111827?style=flat-square&logo=google-scholar&logoColor=4285F4" />
+  </a>
+  <a href="https://github.com/nhatkhangcs">
+    <img src="https://img.shields.io/badge/GitHub-nhatkhangcs-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/khangchris/">
+    <img src="https://img.shields.io/badge/LinkedIn-khangchris-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:nhatkhangdtp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nhatkhangdtp%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="mailto:Khang.Vo@mbzuai.ac.ae">
+    <img src="https://img.shields.io/badge/MBZUAI-Khang.Vo%40mbzuai.ac.ae-111827?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
