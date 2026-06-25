@@ -31,7 +31,7 @@ I am **Vo Hoang Nhat Khang (Chris)**, a PhD student in **Natural Language Proces
 
 I work on **vision-language models**, **multimodal learning**, **uncertainty estimation**, and **Vietnamese NLP**. My style is simple: take research ideas seriously, implement them cleanly, and turn prototypes into systems people can actually use.
 
-Before MBZUAI, I completed my B.Sc. in **Computer Science** at **Ho Chi Minh City University of Technology — Vietnam National University (HCMUT-VNU)** in an accelerated **3.5 years**. I worked under **Assoc. Prof. Dr. Tho T. Quan**, building foundations in machine learning, deep learning, multimodal analysis, and applied software engineering.
+Before MBZUAI, I completed my B.Sc. in **Computer Science** at **Ho Chi Minh City University of Technology - Vietnam National University (HCMUT-VNU)** in an accelerated **3.5 years**. I worked under **Assoc. Prof. Dr. Tho T. Quan**, building foundations in machine learning, deep learning, multimodal analysis, and applied software engineering.
 
 At MBZUAI, I am advised by **Professor Timothy Baldwin** and **Dr. Yova Kementchedjhieva**, focusing on uncertainty in multimodal learning and VLMs.
 
@@ -96,26 +96,6 @@ At MBZUAI, I am advised by **Professor Timothy Baldwin** and **Dr. Yova Kementch
 | **VitalFit Persona** | Agentic AI | AI-powered healthcare application with agentic workflows. |
 | **HCMUT Chatbot** | RAG System | Retrieval-augmented chatbot for university admission support. |
 | **Synthetic Generator** | Data System | Synthetic dataset generation system for ML workflows. |
-
----
-
-## Current Direction
-
-```txt
-VLMs                build models that connect language and vision robustly
-Uncertainty         estimate when multimodal systems should trust themselves less
-Vietnamese NLP      design better representations for morphology-rich Vietnamese text
-Applied AI          ship useful systems: RAG, agents, healthcare, productivity tools
-```
-
----
-
-## Notes
-
-- Started PhD in **NLP at MBZUAI** in **August 2025**.
-- Completed undergraduate CS degree at **HCMUT-VNU** in **3.5 years**.
-- Built systems across Vietnamese NLP, multimodal learning, healthcare AI, and RAG.
-- Interested in research that survives contact with real users, messy data, and production constraints.
 
 ---
 
