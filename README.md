@@ -27,13 +27,7 @@ Building practical AI systems across **language**, **vision**, **retrieval**, an
 
 ## Profile
 
-I am **Vo Hoang Nhat Khang (Chris)**, a PhD student in **Natural Language Processing** at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**.
-
-I work on **vision-language models**, **multimodal learning**, **uncertainty estimation**, and **Vietnamese NLP**. My style is simple: take research ideas seriously, implement them cleanly, and turn prototypes into systems people can actually use.
-
-Before MBZUAI, I completed my B.Sc. in **Computer Science** at **Ho Chi Minh City University of Technology - Vietnam National University (HCMUT-VNU)** in an accelerated **3.5 years**. I worked under **Assoc. Prof. Dr. Tho T. Quan**, building foundations in machine learning, deep learning, multimodal analysis, and applied software engineering.
-
-At MBZUAI, I am advised by **Professor Timothy Baldwin** and **Dr. Yova Kementchedjhieva**, focusing on uncertainty in multimodal learning and VLMs.
+I am **Vo Hoang Nhat Khang (Chris)**, a PhD student in **Natural Language Processing** at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**. I work on **vision-language models**, **multimodal learning**, **uncertainty estimation**, and **Vietnamese NLP**. My style is simple: take research ideas seriously, implement them cleanly, and turn prototypes into systems people can actually use.
 
 ---
 
