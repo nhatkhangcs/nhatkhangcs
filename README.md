@@ -2,7 +2,7 @@
 
 # Khang Vo
 
-**AI Research Engineer · NLP PhD Student · Multimodal Systems Builder**
+**PhD Student @MBZUAI · Multimodal and Linguistics Researcher**
 
 Building practical AI systems across **language**, **vision**, **retrieval**, and **agentic workflows**.
 
