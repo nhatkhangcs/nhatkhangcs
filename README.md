@@ -1,74 +1,141 @@
-# 🌟 Welcome to my home 🌟
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e3a8a,100:0e7490&text=Khang%20Nhat%20Hoang%20Vo&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=PhD%20Student%20%40%20MBZUAI%20%C2%B7%20Multimodal%20Learning%20%26%20LLMs&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhangcs" /> </p>
-
-Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
-
-🔗 **Follow me on GitHub**: [nhatkhangcs](https://github.com/nhatkhangcs?tab=followers)  
-🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
-🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
-
-<img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" alt="Snake animation" />
-
----
-
-## 🎯 About me
-
-I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
-
----
-
-## 🧩 Hobbies & Interests
-
-- ♟️ **Chess**: Outsmarting opponents with strategic brilliance.  
-- 🍴 **Cooking**: Crafting dishes that delight the senses.  
-- 📖 **Research Papers**: Devouring the latest AI breakthroughs.  
-- 💡 **Ideation**: Dreaming up game-changing solutions for teams.  
-- 🎧 **Music**: Coding to EDM & trance, chilling with Japanese & Chinese tunes.  
-- 🧩 **Algorithms**: Solving complex AI and Data Mining puzzles.  
-
----
-
-## 🔬 Research fields
-
-My academic and research pursuits focus on:  
-- **Natural Language Processing (NLP)**: Advancing human-AI language interactions.
-- **Multimodal Learning**: Learn about how various datatypes interact with each other in AI systems. 
-- **Data Science**: Turning data into actionable insights. 
-
----
-
-## 🛠️ Skills & Experiences
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatkhangcs&theme=dracula&hide_border=false" alt="GitHub Streak" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Teaching+models+to+see%2C+read%2C+and+reason+together.;Reading+papers+by+day%2C+breaking+baselines+by+night.;Research+%2B+engineering%2C+in+equal+parts." alt="typing intro" />
+</a>
+
+<p>
+  <a href="https://scholar.google.com/citations?hl=en&user=BDpLfNUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/khangchris/"><img src="https://img.shields.io/badge/LinkedIn-khangchris-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nhatkhangdtp@gmail.com"><img src="https://img.shields.io/badge/Email-nhatkhangdtp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mbzuai.ac.ae/"><img src="https://img.shields.io/badge/MBZUAI-PhD-1e3a8a?style=flat-square" alt="MBZUAI" /></a>
+  <a href="https://oisp.hcmut.edu.vn/en/"><img src="https://img.shields.io/badge/HCMUT-B.Sc.%20CS-0e7490?style=flat-square" alt="HCMUT" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
 </div>
 
 ---
 
-## 📬 Let’s connect!
+### 👋 Hi, I'm Khang — most people call me Chris.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/khangchris/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Christeriousity/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="nhatkhangdtp@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div> 
+I'm a second-year PhD student at **[MBZUAI](https://mbzuai.ac.ae/)**, where I work on **vision-language models** and **large language models**. Before that, I studied Computer Science at **[HCMUT (VNU-HCM)](https://oisp.hcmut.edu.vn/en/)**, wrapped it up in three and a half years, and went straight into the PhD without a master's in between.
+
+What keeps me in this field is a simple question: *how do models connect what they see with what they read, and why do they get it wrong when they don't?* I also care a lot about **low-resource languages**. Some of my favorite projects have been building data and models for Vietnamese and the minority languages of Vietnam, like Bahnar, Cham, Khmer, and Tay-Nung. I like research that ends in something you can actually run, so I spend about as much time writing training loops and tooling as I do reading papers.
+
+```yaml
+currently:
+  role:      2nd-year PhD Student @ MBZUAI
+  born:      2003
+  focus:     [Vision-Language Models, LLMs, Low-Resource NLP]
+  also_into: [Data Science, Applied ML Systems]
+  open_to:   research collaborations · interesting side projects · good conversations
+```
 
 ---
 
-> As I'm on my PhD journey at MBZUAI, I’m excited to contribute to groundbreaking research and innovative projects. Connect with me for collaborations, discussions, or a chat about the limitless possibilities of technology!
+### 🔬 Research Interests
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🧠 Multimodal Learning</b><br/>
+      <sub>How vision, language, and other signals can be aligned, fused, and reasoned over in a single model.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>💬 LLMs &amp; NLP</b><br/>
+      <sub>Making language models more grounded, more efficient, and more useful when people actually rely on them.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🌏 Low-Resource NLP</b><br/>
+      <sub>Corpora, translation, and compact models for Vietnamese and the minority languages that big models tend to leave behind.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📝 Selected Publications
+
+<sub>Full list on <a href="https://scholar.google.com/citations?hl=en&user=BDpLfNUAAAAJ">Google Scholar</a>.</sub>
+
+- **When Morphology Hides in Plain Sight: Breaking the Isolation in Vietnamese and Beyond**<br/>
+  <sub>A.T.D. Dinh, <b>K.N.H. Vo</b>, T.T. Ta, V.C. Doan, T. Quan · <b>ACL 2026</b></sub>
+- **Failing to See or Failing to Know? Attributing Errors in Vision-Language Models**<br/>
+  <sub><b>K.N.H. Vo</b>, A. Vazhentsev, A. Shelmanov, T. Baldwin, et al. · arXiv 2026 · <a href="https://arxiv.org/abs/2607.04683">paper</a></sub>
+- **Whispers from the Neighbors: Rethinking Caption Consensus as Inference-Time Evidence for Vision-Language Retrieval**<br/>
+  <sub><b>K.N.H. Vo</b>, B. Shoer, A.S. Penamakuri · arXiv 2026 · <a href="https://arxiv.org/abs/2610.33798">paper</a></sub>
+- **Causal Episodic Memory for Feedback-Driven Agent Repair**<br/>
+  <sub><b>K.N.H. Vo</b>, T. Minh, A.T.D. Dinh, T.V.H. Bui, T. Quan · <b>REALM Workshop 2026</b></sub>
+- **Revitalizing Bahnaric Language through Neural Machine Translation: Challenges, Strategies, and Promising Outcomes**<br/>
+  <sub><b>K.N.H. Vo</b>, D.D. Le, T.M.D. Phan, et al. · <b>AAAI 2024</b></sub>
+- **TI-JEPA: An Innovative Energy-based Joint Embedding Strategy for Text-Image Multimodal Systems**<br/>
+  <sub>T.Q.T. Khang, <b>K.N.H. Vo</b>, N.P.T. Duc, N.T. Thong · <b>SoICT 2024</b></sub>
+
+---
+
+### 🛠️ Toolbox
+
+<table>
+  <tr>
+    <td><b>ML &amp; Research</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab&theme=dark" alt="ML tools" /></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,haskell&theme=dark" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,html,css,mongodb,redis&theme=dark" alt="web and data" /></td>
+  </tr>
+  <tr>
+    <td><b>Workflow</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,git,postman,figma&theme=dark" alt="workflow" /></td>
+  </tr>
+</table>
+
+<sub>Plus the usual data stack: pandas, NumPy, seaborn, and far too many Jupyter notebooks.</sub>
+
+---
+
+### 📈 On GitHub
+
+<div align="center">
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" height="160" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" height="160" alt="Most committed languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=nhatkhangcs&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake-dark.svg" alt="contribution snake" width="100%" />
+</picture>
+
+---
+
+### ☕ Away from the keyboard
+
+- ♟️ **Chess.** I'm better at openings than endgames, and still working on it.
+- 🍳 **Cooking.** It's the closest thing to running experiments where you get to eat the results.
+- 🎧 **Music.** EDM and trance when I'm coding, Japanese and Chinese ballads when I'm not.
+- 🧩 **Puzzles and algorithms.** Old competitive-programming habits stick around.
+- 💡 **Brainstorming.** I'm happiest when a team is throwing half-formed ideas at a whiteboard.
+
+---
+
+<div align="center">
+
+**Working on vision-language models, LLMs, or low-resource languages? I'd be glad to hear about it.**<br/>
+<sub>Reach me on <a href="https://www.linkedin.com/in/khangchris/">LinkedIn</a> or at <code>nhatkhangdtp@gmail.com</code>.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0e7490,50:1e3a8a,100:0f172a" width="100%" alt="footer" />
