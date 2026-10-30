@@ -16,13 +16,13 @@
 
 </div>
 
----
+### 👋 Hi, I'm Khang
 
-### 👋 Hi, I'm Khang — most people call me Chris.
-
-I'm a second-year PhD student in the Computing & Mathematical Sciences Division at **[MBZUAI](https://mbzuai.ac.ae/)**, advised by **[Prof. Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/)** and **[Dr. Yova Kementchedjhieva](https://mbzuai.ac.ae/study/faculty/yova-kementchedjhieva/)**.
+I also go by Chris, my English name. I'm a second-year PhD student in the Computing & Mathematical Sciences Division at **[MBZUAI](https://mbzuai.ac.ae/)**, advised by **[Prof. Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/)** and **[Dr. Yova Kementchedjhieva](https://mbzuai.ac.ae/study/faculty/yova-kementchedjhieva/)**.
 
 My research asks a question that sounds simple but isn't: *when a vision-language model answers, how much should we trust it?* I work on **uncertainty quantification** and **hallucination detection** for multimodal models. I want to figure out whether a model failed to *see* something or failed to *know* it, and to catch the mistake before it reaches a user.
+
+I'm a builder at heart, though. I like research that ends in something you can actually run, and I enjoy writing tools other people end up using.
 
 Before MBZUAI, I finished my Computer Science degree at **HCMUT (VNU-HCM)** in three and a half years, working with **Assoc. Prof. Tho T. Quan** on machine learning, multimodal analysis, and Vietnamese and minority-language NLP. I still have a soft spot for that last one.
 
@@ -38,100 +38,63 @@ khang:
   born:      2003
 ```
 
----
-
 ### 📰 Recently
 
-| When | What |
-|:--|:--|
-| `2026-10` | Solo-author paper **Team HalluciNauts at SHROOM-Visions** published at UncertaiNLP @ EMNLP 2026 · [paper](https://aclanthology.org/2026.uncertainlp-main.44/) |
-| `2026-10` | **Causal Episodic Memory for Feedback-Driven Agent Repair** published at REALM @ EMNLP 2026 · [paper](https://aclanthology.org/2026.realm-1.70/) · [code](https://github.com/nhatkhangcs/merit) |
-| `2026-09` | Paper on decentralized federated learning with noisy medical labels accepted to **CSoNet 2026** (Springer LNCS) |
-| `2026-08` | Teaching Assistant for *Mathematical Foundations for AI* at MBZUAI |
-| `2026-06` | Visiting Scholar at **NUS** with [Prof. Anji Liu](https://liuanji.github.io/), working on uncertainty and hallucination in VLMs |
+- `2026-08` Teaching Assistant for *Mathematical Foundations for AI* at MBZUAI: ran the lab sessions and wrote problems for the final exam.
+- `2026-06` Visiting Scholar at **NUS** with [Prof. Anji Liu](https://liuanji.github.io/), working on uncertainty and hallucination in VLMs.
+- `2026` Program Committee member and reviewer for **CSoNet 2026**.
 
----
-
-### 📝 Selected Publications
-
-<sub><code>*</code> equal contribution · full list on <a href="https://scholar.google.com/citations?hl=en&user=BDpLfNUAAAAJ">Google Scholar</a></sub>
-
-- **Failing to See or Failing to Know? Attributing Errors in Vision-Language Models**<br/>
-  <sub><b>Khang Nhat Hoang Vo</b>, Artem Vazhentsev, Artem Shelmanov, Timothy Baldwin, Yova Kementchedjhieva · arXiv 2026 · <a href="https://arxiv.org/abs/2607.04683">paper</a></sub>
-- **Team HalluciNauts at SHROOM-Visions: Anchor-Preserving Dual-Resolution Grounding for Fine-Grained Vision Hallucination Detection**<br/>
-  <sub><b>Khang Nhat Hoang Vo</b> · <b>UncertaiNLP @ EMNLP 2026</b> · <a href="https://aclanthology.org/2026.uncertainlp-main.44/">paper</a></sub>
-- **When Morphology Hides in Plain Sight: Breaking the Isolation in Vietnamese and Beyond**<br/>
-  <sub>Anh Trac Duc Dinh, <b>Khang Hoang Nhat Vo</b>, Tai Tien Ta, Vinh Cong Doan, Tho Quan · <b>ACL 2026 (Main)</b> · <a href="https://aclanthology.org/2026.acl-long.472/">paper</a> · <a href="https://tracducanh.github.io/HuTieuBERT/">project</a> · <a href="https://github.com/nhatkhangcs/HuTieuBERT">code</a></sub>
-- **Causal Episodic Memory for Feedback-Driven Agent Repair**<br/>
-  <sub><b>Khang Nhat Hoang Vo</b>, Tam Minh Chu, Anh Trac Duc Dinh, Thuyen Vinh Ha Bui, Tho Quan · <b>REALM @ EMNLP 2026</b> · <a href="https://aclanthology.org/2026.realm-1.70/">paper</a> · <a href="https://github.com/nhatkhangcs/merit">code</a></sub>
-- **The JEPA Paradox in Language: The Geometry of Linguistic Alternatives**<br/>
-  <sub>Anh Trac Duc Dinh<sup>*</sup>, <b>Khang Nhat Hoang Vo</b><sup>*</sup> · arXiv 2026 · <a href="https://arxiv.org/abs/2607.23531">paper</a></sub>
-- **TI-JEPA: An Innovative Energy-based Joint Embedding Strategy for Text-Image Multimodal Systems**<br/>
-  <sub><b>Khang H. N. Vo</b><sup>*</sup>, Duc P. T. Nguyen<sup>*</sup>, Thong Nguyen, Tho T. Quan · <b>SoICT 2024</b> · <a href="https://arxiv.org/abs/2503.06380">paper</a> · <a href="https://github.com/nhatkhangcs/tijepa">code</a></sub>
-- **Revitalizing Bahnaric Language through Neural Machine Translation: Challenges, Strategies, and Promising Outcomes**<br/>
-  <sub><b>Hoang Nhat Khang Vo</b>, Duc Dong Le, Tran Minh Dat Phan, et al., Tho Quan · <b>AAAI 2024</b> · <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30385">paper</a></sub>
-
----
+<sub>Papers live on <a href="https://scholar.google.com/citations?hl=en&user=BDpLfNUAAAAJ">Google Scholar</a>. This page is for the code.</sub>
 
 ### 🧪 Things I've Built
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nhatkhangcs/overleaf_comments"><b>sidecomments</b></a><br/>
-      <sub>A LaTeX package that puts review comments in margin boxes, with arrows pointing to the text, figure, table, or equation being discussed. Works with ACL/ARR, ICLR, CVPR, and AAAI templates.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nhatkhangcs/HuTieuBERT"><b>HuTieuBERT</b></a><br/>
-      <sub>Code for our ACL 2026 paper on recovering hidden morphology in Vietnamese and other isolating languages.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/nhatkhangcs/merit"><b>merit</b></a><br/>
-      <sub>Causal episodic memory that helps LLM agents learn from feedback and repair their own failures (REALM 2026).</sub>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/nhatkhangcs/tijepa"><b>TI-JEPA</b></a><br/>
-      <sub>An energy-based joint-embedding architecture for aligning text and images.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/nhatkhangcs/namizer"><b>Namizer</b></a><br/>
-      <sub>A Vietnamese tokenizer that breaks each word into its five components.</sub>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/nhatkhangcs/hcmut-chatbot"><b>HCMUT Chatbot</b></a><br/>
-      <sub>An LLM and RAG chatbot that answers university admission questions.</sub>
-    </td>
-  </tr>
-</table>
+#### Developer tools
 
----
+**[v7](https://github.com/ducngg/v7)** <img src="https://img.shields.io/github/stars/ducngg/v7?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+An AI-powered Vietnamese input method: type `x0ch2` and get *xin chào*. You type only initial consonants and tones, and `v7gpt`, a small GPT with a custom tokenizer trained on Vietnamese text, uses context to fill in the rest. Runs on macOS and Windows. Built together with [ducngg](https://github.com/ducngg).<br/>
+<sub>`Python` · `PyTorch` · `nanoGPT` · `input method`</sub>
+
+**[Synthetic Generator](https://github.com/nhatkhangcs/synthetic_generator)** <img src="https://img.shields.io/github/stars/nhatkhangcs/synthetic_generator?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+Generates synthetic datasets that plug straight into ML pipelines, for when the real data is scarce, private, or just not there yet.<br/>
+<sub>`Python` · `ML pipelines` · `data generation`</sub>
+
+**[sidecomments](https://github.com/nhatkhangcs/overleaf_comments)** <img src="https://img.shields.io/github/stars/nhatkhangcs/overleaf_comments?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+A LaTeX package that puts review comments in margin boxes, with arrows pointing to the exact text, figure, table, or equation. Works with ACL/ARR, ICLR, CVPR, and AAAI templates.<br/>
+<sub>`LaTeX` · `TeX package` · `Overleaf`</sub>
+
+#### AI systems & agents
+
+**[VitalFit Persona](https://github.com/nhatkhangcs/vitalfit-persona)** <img src="https://img.shields.io/github/stars/nhatkhangcs/vitalfit-persona?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+A multi-agent healthcare assistant. Specialized agents call tools and work together on healthcare questions.<br/>
+<sub>`Python` · `agentic AI` · `Redis` · `Google APIs`</sub>
+
+**[MERIT](https://github.com/nhatkhangcs/merit)** <img src="https://img.shields.io/github/stars/nhatkhangcs/merit?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+Causal episodic memory for LLM agents, so they learn from feedback and repair their own failures instead of repeating them.<br/>
+<sub>`Python` · `LLM agents` · `memory` · `SQL`</sub>
+
+**[HCMUT Chatbot](https://github.com/nhatkhangcs/hcmut-chatbot)** <img src="https://img.shields.io/github/stars/nhatkhangcs/hcmut-chatbot?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+An LLM and RAG chatbot that answers university admission questions.<br/>
+<sub>`Python` · `RAG` · `LLMs`</sub>
+
+#### Models
+
+**[TI-JEPA](https://github.com/nhatkhangcs/tijepa)** <img src="https://img.shields.io/github/stars/nhatkhangcs/tijepa?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+A text-image joint-embedding predictive architecture for multimodal fusion. It started as my capstone project, which was graded 9.9/10.<br/>
+<sub>`PyTorch` · `Transformers` · `multimodal`</sub>
+
+**[HuTieuBERT](https://github.com/nhatkhangcs/HuTieuBERT)** <img src="https://img.shields.io/github/stars/nhatkhangcs/HuTieuBERT?style=flat-square&label=%E2%98%85&color=38bdf8" alt="stars" /><br/>
+A morpheme-aware Transformer that adds explicit morphological structure to pretrained encoders for isolating languages like Vietnamese.<br/>
+<sub>`PyTorch` · `BERT` · `tokenization`</sub>
+
+<sub>[See all repositories →](https://github.com/nhatkhangcs?tab=repositories)</sub>
 
 ### 🛠️ Toolbox
 
-<table>
-  <tr>
-    <td><b>ML &amp; Research</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,latex&theme=dark" alt="ML tools" /></td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,c,java,cs,js,haskell&theme=dark" alt="languages" /></td>
-  </tr>
-  <tr>
-    <td><b>Web &amp; Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flask,html,css,mongodb,redis&theme=dark" alt="web and data" /></td>
-  </tr>
-  <tr>
-    <td><b>Workflow</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,git,postman,figma&theme=dark" alt="workflow" /></td>
-  </tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,latex&theme=dark" alt="ML and research" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,cs,js,haskell&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=flask,html,css,mongodb,redis,linux,git,postman,figma&theme=dark" alt="web, data and workflow" />
+</p>
 
 ### 📈 On GitHub
 
@@ -149,8 +112,6 @@ khang:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake-dark.svg" alt="contribution snake" width="100%" />
 </picture>
-
----
 
 <details>
 <summary><b>🗞️ In the news</b></summary>
@@ -173,8 +134,6 @@ khang:
 - 🧩 **Puzzles and algorithms.** Old competitive-programming habits stick around.
 
 </details>
-
----
 
 <div align="center">
 
